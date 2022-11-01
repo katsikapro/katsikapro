@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katsikapro
 - 👀 I’m interested in ...arduino and coding
-- 🌱 I’m currently learning ...tkinter
+- 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...statistics
 - 📫 How to reach me ...
 
